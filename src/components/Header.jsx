@@ -16,7 +16,7 @@ function Header() {
     <header className={styles.header}>
       <div className={styles.left}>
         <Link to="/" className={styles.logo}>
-          Mini-Social
+          Vistagram
         </Link>
       </div>
       <div className={styles.right}>
